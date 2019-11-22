@@ -5,7 +5,7 @@ featured-img: winterphoto
 summary: This is a tiny graphic design gallery recording my occasional inspiration
 categories: Design
 ---
-
-![](/_img/posts/watercolor.jpg) #My first work
+# My first work
+![](watercolor.jpg) 
 
 
