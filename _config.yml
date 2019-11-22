@@ -1,16 +1,14 @@
 # SITE CONFIGURATION
-title: Sleek # your site title
-author: GitHub User # You :P
+title: Zhiyi Hu # your site title
+author: Zhiyi Hu # You :P
 description: > # Meta description of Homepage
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/sleek" # the subpath of your site, e.g. /blog
-url: "https://janczizikow.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+  A wonderful journey in life
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://JacquelineHu.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
-  name: Your Name
+  name: Zhiyi Hu
   links:
     - https://twitter.com/BenBalter
     - https://www.facebook.com/ben.balter
@@ -26,11 +24,11 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  A wonderful journey in life
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/Zhiyi.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-email: your-email@domain.com # email for form submission
+email: 536485210@qq.com.com # email for form submission
 
 twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
 github_username:  janczizikow # replace with your_github_username or comment to remove link from footer
