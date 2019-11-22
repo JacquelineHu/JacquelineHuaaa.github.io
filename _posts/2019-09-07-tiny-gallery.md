@@ -7,8 +7,6 @@ categories: Design
 ---
 # My first work
 
-<div align=center>
-  ![](/_img/posts/watercolor.jpg
-</div>
+<div align=center>![](/_img/posts/watercolor.jpg
 
 
