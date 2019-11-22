@@ -6,4 +6,7 @@ summary: This is a tiny graphic design gallery recording my occasional inspirati
 categories: Design
 ---
 
-![](/_img/posts/watercolor.jpg)
+![][img1] #My first work
+
+
+[img1]: (/_img/posts/watercolor.jpg)
