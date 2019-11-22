@@ -6,4 +6,4 @@ summary: This is a tiny graphic design gallery recording my occasional inspirati
 categories: Design
 ---
 
-!(https://github.com/JacquelineHu/JacquelineHu.github.io/blob/master/assets/img/posts/watercolor.jpg)
+![](/_img/posts/watercolor.jpg)
