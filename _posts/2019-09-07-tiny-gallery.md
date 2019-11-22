@@ -6,7 +6,9 @@ summary: This is a tiny graphic design gallery recording my occasional inspirati
 categories: Design
 ---
 # My first work
- <div align="center">![](https://github.com/JacquelineHu/JacquelineHu.github.io/blob/master/_img/posts/watercolor.jpg)</div>
+<div align=center>
+	<img src="/_img/posts/watercolor.jpg" width="0.9">
+</div>
 
  <div align="center">![](/_img/posts/watercolor.jpg)</div>
 
