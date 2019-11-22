@@ -10,6 +10,6 @@ categories: Design
 	<img src="/_img/posts/watercolor.jpg" width="0.9">
 </div>
 
- <div align="center">![](/_img/posts/watercolor.jpg)</div>
+![](/_img/posts/watercolor.jpg)
 
 
