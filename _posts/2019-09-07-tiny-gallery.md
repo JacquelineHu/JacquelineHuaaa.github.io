@@ -10,6 +10,7 @@ categories: Design
 <div style="align: center">
 <img src="/_img/posts/watercolor.jpg"/>
 </div>
+
 <div align=center>![](/_img/posts/watercolor.jpg)
 
 
