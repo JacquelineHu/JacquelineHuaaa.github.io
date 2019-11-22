@@ -6,10 +6,6 @@ summary: This is a tiny graphic design gallery recording my occasional inspirati
 categories: Design
 ---
 # My first work
-<div align=center>
-	<img src="/_img/posts/watercolor.jpg" width="0.9">
-</div>
-
 ![](/_img/posts/watercolor.jpg)
 
 
