@@ -22,8 +22,8 @@ categories: Design
 <center> <font size="2"> Winter social activity </font> </center> 
 
 
-+ Theme: Winter social activity publicity  
-+ Description: A person standing in the winter is holding a photo of his/her group members of summer social activity.  
++ Theme: Winter social activity publicity     
++ Description: A person standing in the winter is holding a photo of his/her group members of summer social activity.     
 + Ideas: Considering this activity was regarded not as important as that of summer, I   
 
 
