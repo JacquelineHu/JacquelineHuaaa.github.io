@@ -6,6 +6,8 @@ summary: This is a tiny graphic design gallery recording my occasional inspirati
 categories: Design
 ---
 # My first work
-![N](/_img/posts/watercolor.jpg)
+<div align="center">
+<img src="/assets/img/posts/Zhiyi.jpg" height="200" width="300" >
+</div>
 
 
