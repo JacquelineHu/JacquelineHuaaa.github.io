@@ -7,7 +7,7 @@ categories: Design
 ---
 # My first work
 <div align="center">
-<img src="/assets/img/posts/Zhiyi.jpg" height="200" width="300" >
+<img src="/assets/img/posts/Zhiyi.jpg" height="50%" width="50%" >
 </div>
 
 
