@@ -10,7 +10,6 @@ categories: Design
 ---
 
 # Spray Posters
-+++
 ## Winter social activity
 
 <div align="center">
